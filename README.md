@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full-Stack Developer
 --------------------
 
-💯I am 17 year old. <br>
+💯I am 17 years old. <br>
 🇳🇱I live in the Netherlands. <br> 
 🤝 I’m looking for an internship <br>
 🌱 I’m currently learning a library called Symfony
