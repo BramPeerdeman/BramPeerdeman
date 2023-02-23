@@ -6,7 +6,7 @@ Full-Stack Developer
 
 💯I am 17 year old. <br>
 🇳🇱I live in the Netherlands. <br> 
-🤝 I’m looking for an internship 
+🤝 I’m looking for an internship <br>
 🌱 I’m currently learning a library called Symfony
 
 *   🌍  I'm based in Delft, Zuid-Holland
