@@ -10,7 +10,7 @@ Full-Stack Developer
 🌱 I’m currently learning a framework called Symfony
 
 *   🌍  I'm based in Delft, Zuid-Holland
-*   🖥️  See my portfolio at [My Portfolio](http://87268.stu.sd-lab.nl/Portfolio/)
+*   🖥️  See my portfolio at [My Portfolio](https://87268.stu.sd-lab.nl/Portfolio/)
 *   ✉️  You can contact me at [brampeer15@gmail.com](mailto:brampeer15@gmail.com)
 *   🧠  I'm currently learning Symfony
 
