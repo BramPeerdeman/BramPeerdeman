@@ -7,7 +7,7 @@ Back-End Developer
 💯I am 17 years old. <br>
 🇳🇱I live in the Netherlands. <br> 
 🤝 I’m looking for an internship <br>
-🌱 I’m currently learning a framework called Symfony
+🌱 I’m currently learning a framework called Laravel
 
 *   🌍  I'm based in Delft, Zuid-Holland
 *   🖥️  See my portfolio at [My Portfolio](https://87268.stu.sd-lab.nl/Portfolio/)
