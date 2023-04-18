@@ -12,7 +12,7 @@ Back-End Developer
 *   🌍  I'm based in Delft, Zuid-Holland
 *   🖥️  See my portfolio at [My Portfolio](https://87268.stu.sd-lab.nl/Portfolio/)
 *   ✉️  You can contact me at [brampeer15@gmail.com](mailto:brampeer15@gmail.com)
-*   🧠  I'm currently learning Symfony
+*   🧠  I'm currently learning Laravel
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/brampr__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bram-peerdeman-8a52a122b/) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/deaszyy) 
