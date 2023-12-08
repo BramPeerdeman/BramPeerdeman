@@ -6,7 +6,7 @@ Back-End Developer
 
 💯I am 18 years old. <br>
 🇳🇱I live in the Netherlands. <br> 
-🌱 I’m currently learning a framework called Laravel
+🌱 I’m currently learning a e2e-testing framework called Playwright
 
 *   🌍  I'm based in Delft, Zuid-Holland
 *   🖥️  See my portfolio at [My Portfolio](https://87268.stu.sd-lab.nl/Portfolio/)
