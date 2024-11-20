@@ -4,14 +4,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Back-End Developer
 --------------------
 
-💯I am 18 years old. <br>
+💯I am 19 years old. <br>
 🇳🇱I live in the Netherlands. <br> 
-🌱 I’m currently learning a e2e-testing framework called Playwright
+🌱 I’m currently learning a Java
 
 *   🌍  I'm based in Delft, Zuid-Holland
 *   🖥️  See my portfolio at [My Portfolio](https://87268.stu.sd-lab.nl/Portfolio/)
 *   ✉️  You can contact me at [brampeer15@gmail.com](mailto:brampeer15@gmail.com)
-*   🧠  I'm currently learning Playwright and TypeScript
+*   🧠  I'm currently learning Java and Typescript
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/brampr__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bram-peerdeman-8a52a122b/) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/deaszyy) 
