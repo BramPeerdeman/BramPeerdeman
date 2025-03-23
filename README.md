@@ -9,7 +9,7 @@ Back-End Developer
 🌱 I’m currently learning a Java
 
 *   🌍  I'm based in Delft, Zuid-Holland
-*   🖥️  See my portfolio at [My Portfolio](https://brampeerdeman.netlify.app)
+*   🖥️  See my portfolio at [My Portfolio](https://brampeerdeman.com)
 *   ✉️  You can contact me at [brampeer15@gmail.com](mailto:brampeer15@gmail.com)
 *   🧠  I'm currently learning Java and Typescript
 
