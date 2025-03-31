@@ -5,7 +5,7 @@ Back-End Developer
 --------------------
 
 💯I am 19 years old. <br>
-🇳🇱I live in the Netherlands. <br> 
+🇳🇱 I live in the Netherlands. <br> 
 🌱 I’m currently learning a Java
 
 *   🌍  I'm based in Delft, Zuid-Holland
