@@ -6,7 +6,7 @@ Back-End Developer
 
 💯I am 19 years old. <br>
 🇳🇱 I live in the Netherlands. <br> 
-🌱 I’m currently learning a Java
+🌱 I’m currently learning Java
 
 *   🌍  I'm based in Delft, Zuid-Holland
 *   🖥️  See my portfolio at [My Portfolio](https://brampeerdeman.com)
